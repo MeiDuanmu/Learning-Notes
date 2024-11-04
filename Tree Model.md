@@ -10,8 +10,8 @@
 * Advantages (accuracy, robust, handle missing/outlier, feature importance, easier to train)
 
 
-## GBN <br>
+## GBM <br>
 * ensamble trees (boosting method)
 * Hyperparameters (learning rate, numbers of trees, tree depth)
-* Advantages (accuracy, robust, handle missing/outlier, feature importance)
+* Advantages (accuracy, robust, handle missing/outlier, feature importance, good for multiple object function)
 
